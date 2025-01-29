@@ -35,10 +35,10 @@ function Section() {
     <div className='mt-[100px]'>
         <h1 className='text-center font-bold text-[35px]'>Bizning jamoa</h1>
         <ul className='flex justify-around mt-[50px] mb-[100px]'>
-            <li className='w-[300px] p-[40px] shadow-2xl shadow-orange-300 hover:shadow-orange-500 transition-all duration-500 text-center text-[20px] rounded-[10px]'><h1>Direktor</h1></li>
-            <li className='w-[300px] p-[40px] shadow-2xl shadow-orange-300 hover:shadow-orange-500 transition-all duration-500 text-center text-[20px] rounded-[10px]'><h1>Yurist</h1></li>
-            <li className='w-[300px] p-[40px] shadow-2xl shadow-orange-300 hover:shadow-orange-500 transition-all duration-500 text-center text-[20px] rounded-[10px]'><h1>Operator</h1></li>
-            <li className='w-[300px] p-[40px] shadow-2xl shadow-orange-300 hover:shadow-orange-500 transition-all duration-500 text-center text-[20px] rounded-[10px]'><h1>Administrator</h1></li>
+            <li className='cursor-pointer w-[300px] p-[40px] shadow-2xl shadow-orange-300 hover:shadow-orange-500 transition-all duration-500 text-center text-[20px] rounded-[10px]'><h1>Direktor</h1></li>
+            <li className='cursor-pointer w-[300px] p-[40px] shadow-2xl shadow-orange-300 hover:shadow-orange-500 transition-all duration-500 text-center text-[20px] rounded-[10px]'><h1>Yurist</h1></li>
+            <li className='cursor-pointer w-[300px] p-[40px] shadow-2xl shadow-orange-300 hover:shadow-orange-500 transition-all duration-500 text-center text-[20px] rounded-[10px]'><h1>Operator</h1></li>
+            <li className='cursor-pointer w-[300px] p-[40px] shadow-2xl shadow-orange-300 hover:shadow-orange-500 transition-all duration-500 text-center text-[20px] rounded-[10px]'><h1>Administrator</h1></li>
         </ul>
     </div>
     </div>
