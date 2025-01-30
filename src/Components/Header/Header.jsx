@@ -72,8 +72,8 @@ function Header() {
               <FaNetworkWired className="text-[30px] mx-[5px] text-white text-center absolute top-[5px]" />
             </div>
             <div>
-              <h1 className="text-gray-700">Mamnun mijozlar</h1>
-              <h1 className="font-bold text-gray-700">45000+</h1>
+              <h1 className="text-gray-700">Mamlakatlar</h1>
+              <h1 className="font-bold text-gray-700">30+</h1>
             </div>
           </div>
           <div className="flex gap-[10px]">
@@ -81,8 +81,8 @@ function Header() {
               <FaRegClock className="text-[30px] mx-[5px] text-white text-center absolute top-[5px]" />
             </div>
             <div>
-              <h1 className="text-gray-700">Mamnun mijozlar</h1>
-              <h1 className="font-bold text-gray-700">45000+</h1>
+              <h1 className="text-gray-700">Tajriba</h1>
+              <h1 className="font-bold text-gray-700">5+ yil</h1>
             </div>
           </div>
           <div>
