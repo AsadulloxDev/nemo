@@ -80,7 +80,7 @@ function Aviachipta() {
             />
           </div>
         </div>
-        <button onClick={() => setActiveh1("true")} className="w-[800px] bg-orange-500 text-white h-[35px] rounded-lg mt-8 ml-[80px] hover:bg-orange-600 hover:shadow-orange-600 hover:shadow-lg active:bg-orange-700 active:shadow-orange-700 transition-all duration-300">
+        <button onClick={() => setActiveh1("true")} className="w-[800px] bg-orange-500 text-white h-[35px] rounded-lg mt-8 ml-[80px] hover:bg-orange-600 hover:shadow-orange-600 hover:shadow-lgC active:bg-orange-700 active:shadow-orange-700 transition-all duration-300">
           Qidirish
         </button>
         {Activeh1 === "true" && (
